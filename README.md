@@ -34,5 +34,5 @@ This application will showcase the following features of the Kony Video Widget.
  * Android.
  * iPhone.
  
-Certified4KonyCommunity7.1.1 
+CertifiedAtKonyCommunity
 
